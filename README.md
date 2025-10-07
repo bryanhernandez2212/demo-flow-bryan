@@ -17,5 +17,5 @@ samples, guidance on mobile development, and a full API reference.
 
 Integrantes:
 
-Bryan de Jesús Hernández Luna
-Evelyn Jazmín Pérez Sánchez
+- Bryan de Jesús Hernández Luna
+- Evelyn Jazmín Pérez Sánchez
